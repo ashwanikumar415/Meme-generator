@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Meme Generator ###
 
 You can pick favorite meme image by clicking generate button 
 and add top and bottom text . 
